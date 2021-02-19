@@ -1,0 +1,19 @@
+h1{
+    font-size: 50px;
+    font-weight: 600;
+    font-family: "Fira Code", Arial, Helvetica, sans-serif;
+    color: #F7882F;
+    text-align: center;
+    margin: 20px 5px 10px 5px;
+    text-shadow: 5px 5px 0px #000;
+       
+}
+
+h2{
+    font-size: 35px;
+    font-weight: 500;
+    font-family: "Fira Code", Arial, Helvetica, sans-serif;
+    color: #fff;
+    text-align: center;
+    margin-top: 0px;
+}
