@@ -1,0 +1,9 @@
+.section{
+    box-sizing: border-box;
+    height: 700px;
+    border-bottom: solid 10px #000;
+    padding-left: 90px;
+    padding-top: 50px;
+    text-align: center;
+    background: #F7882F;
+   }
