@@ -1,4 +1,4 @@
-.box{
+.main-box{
     display: inline-block;
     padding: 30px 80px;
     background-color:#576574;;
@@ -7,6 +7,3 @@
 
 }
 
-.box .tittle{
-    margin-bottom: 28px;
-}
