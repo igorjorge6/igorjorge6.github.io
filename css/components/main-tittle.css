@@ -2,12 +2,13 @@
     font-size: 50px;
     font-family: "Prompt", Arial, Helvetica, sans-serif;
     color: #F7882F;;
-    text-shadow: 3px 3px 2px #000;
+    
        
 }
 
 .main-tittle.-second{
     color:#fff;
     text-align: center;
+    text-shadow: 3px 3px 2px #000;
    
 }
