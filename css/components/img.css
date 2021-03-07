@@ -1,5 +1,9 @@
 img{
-    width: 60px;
     height: 60px;
-    margin-top: 5px;
+    width: 60px;
+}
+
+.logo{
+    width: 240px;
+    height: 230px;
 }
