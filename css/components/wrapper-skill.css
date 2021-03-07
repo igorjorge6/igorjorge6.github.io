@@ -1,0 +1,21 @@
+.wrapper-skill {
+display: flex;
+justify-content: space-around;
+max-width: 960px;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 30px;
+
+}
+
+.wrapper-skill .skill-tec{
+    width: 430px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+
+.wrapper-skill .progress-bar{
+    widht: 320px;
+}
+
