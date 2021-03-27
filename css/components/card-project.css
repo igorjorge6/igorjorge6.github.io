@@ -1,9 +1,13 @@
 .card-project{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 240px;
-    height: 220px;
-    box-shadow: 5px 5px 5px #000;
+display: flex;
+justify-content: center;
+align-items: center;
+width: 240px;
+height: 220px;
+box-shadow: 5px 5px 5px #000;
 }
 
+.card-project .logo{
+width: 240px;
+height: 230px;
+}
